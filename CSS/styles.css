@@ -1,0 +1,100 @@
+.topnav {
+    overflow: hidden;
+    background-color: #04AA6D;
+}
+
+/* set nav bar color green*/
+
+.topnav a {
+    float: left;
+    text-align: center;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+
+}
+
+/* set nav display*/
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+
+body {
+    margin: 0px;
+    font-family: 'Merriweather', serif;
+    color: white;
+    background-color: black;
+}
+
+.image {
+    margin-top: 30px;
+    border-radius: 30px;
+    height: 70%;
+}
+
+/* set my image size */
+
+
+h1 {
+
+    font-family: 'Sacramento', cursive;
+    font-size: 2.625rem;
+    color: #1b7f69;
+}
+
+h2 {
+    font-family: 'Sacramento', cursive;
+    font-size: 2.625rem;
+    color: #1b7f69;
+    display: block;
+
+}
+
+.top {
+    display: flex;
+    max-height: 500px;
+}
+
+
+.text {
+    display: inline;
+    font-family: 'Kalam', cursive;
+}
+
+/* set my text font */
+
+
+h4 {
+    font-family: 'Sacramento', cursive;
+    font-size: 2.625rem;
+    color: #1b7f69;
+    display: block;
+}
+
+.icon2 {
+    display: flex;
+}
+
+.icon3 {
+    display: inline-flex;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #04aa6d49;
+    color: white;
+}
+
+i {
+    padding-right: 5px;
+}
+
+/* set space between icon and text in the nav bar */
+iframe {
+    border-radius: 13px;
+}
