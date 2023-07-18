@@ -37,7 +37,7 @@ body {
 
 h1 {
 
-    font-family: 'Sacramento' ;
+    font-family: 'Sacramento';
     font-size: 2.625rem;
     color: #1b7f69;
 }
@@ -95,3 +95,9 @@ i {
 iframe {
     border-radius: 13px;
 }
+
+.contactpage {
+    color: white;
+}
+
+/* set text color for contact page */
